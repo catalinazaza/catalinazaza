@@ -8,7 +8,7 @@ Hi there, I'm Catalina👋</h1>
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:catalinazaza97@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://catalinazaza.owlstown.net/)
 
-<img src="header4.jpg" alt="Header" width="100%" height="auto">
+<img src="header4.jpg" alt="Header" width="100%" height="5%">
 
 # 🌻About me 
 I am an Argentinian🇦🇷 political scientist pursuing a _Master in International Affairs_ at [John Cabot University](https://www.johncabot.edu/master-international-affairs/default.aspx) in Rome.<br> 
@@ -27,7 +27,7 @@ Here you can find some of the repositories I have worked on and am currently dev
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 
-# 💻 IT Education
+# 📚 IT Education
 - MA in International Affairs - ![John Cabot University](https://www.johncabot.edu/master-international-affairs/default.aspx) <br>
   Course: Applied Computational Methods for Social Sciences<br>
   Course: Statistical Analysis for Political Science
