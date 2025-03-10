@@ -1,5 +1,6 @@
-<div align="center">
-<h1 align="center">Hi there, I'm Catalina👋</h1>
+<!--<div align="center">
+<!--<h1 align="center">-->
+Hi there, I'm Catalina👋</h1>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/catalina-zaza)
@@ -7,11 +8,12 @@
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:catalinazaza97@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://catalinazaza.owlstown.net/)
 
-![](https://github.com/catalinazaza/catalinazaza/blob/main/github_header.jpg)
+<img src="header4.jpg" alt="Header" width="100%" height="auto">
 
 # 🌻About me 
 I am an Argentinian🇦🇷 political scientist pursuing a _Master in International Affairs_ at [John Cabot University](https://www.johncabot.edu/master-international-affairs/default.aspx) in Rome.<br> 
-I have experience in project management and data analytics for projects in both the public and private sectors. I believe that data science is a powerful tool to complement public policies and the development of projects with social and economic impact.  
+I have experience in project management and data analytics for projects in both the public and private sectors.<br> 
+I believe that data science is a powerful tool to complement public policies and the development of projects with social and economic impact.  
 
 Here you can find some of the repositories I have worked on and am currently developing, which I am very proud of!
 
