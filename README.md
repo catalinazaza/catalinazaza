@@ -9,7 +9,7 @@ Hi there, I'm Catalina👋</h1>
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://catalinazaza.owlstown.net/)
 
 
-<img src="header4.jpg" alt="Header" width="100%" height="5%">
+<img src="github_header2.jpg" alt="Header" width="100%" height="100%">
 
 # 🌻About me 
 I am an Argentinian🇦🇷 political scientist pursuing a _Master in International Affairs_ at [John Cabot University](https://www.johncabot.edu/master-international-affairs/default.aspx) in Rome.<br> 
