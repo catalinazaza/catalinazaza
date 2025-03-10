@@ -3,7 +3,7 @@
 Hi there, I'm Catalina👋</h1>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/catalina-zaza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-zaza/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/catalindazaza)
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:catalinazaza97@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://catalinazaza.owlstown.net/)
