@@ -7,6 +7,8 @@ Hi there, I'm Catalina👋</h1>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/catalindazaza)
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:catalinazaza97@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://catalinazaza.owlstown.net/)
+[![Running](https://img.shields.io/badge/Adidas%20Running-%23000000.svg?logo=adidas&logoColor=white)]([TU_LINK_DE_ADIDAS_RUNNING](https://www.runtastic.com/user/N2MW8Z1WPVXOHV36 )
+
 
 
 <img src="github_header2.jpg" alt="Header" width="100%" height="100%">
