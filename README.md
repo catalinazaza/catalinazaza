@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-Hi there, I'm Catalina👋</h1>
+Hi mate, I'm Catalina👋</h1>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-zaza/)
